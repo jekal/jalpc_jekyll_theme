@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-shell
     - name: icon-git
-  desc: Technophile invétéré, j'adore mettre au banc d'essai de nombreuses technologies, avant tout issues du monde du libre et de l'open source, afin de me faire mon propre avis sur un large spectre d'outils. J'essaie constamment de répondre aux problématiques rencontrées de manière pragmatique en optant pour des solutions intuitives, performantes et évolutives.  # Describe yourself.
+  desc: "Technophile invétéré, j'adore mettre au banc d'essai de nombreuses technologies, avant tout issues du monde du libre et de l'open source, afin de me faire mon propre avis sur un large spectre d'outils.<br/><br/>J'essaie constamment de répondre aux problématiques rencontrées de manière pragmatique en optant pour des solutions intuitives, performantes et évolutives."  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
