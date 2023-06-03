@@ -1,30 +1,101 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: CNRS - Délégation Occitanie Est
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: "Mes missions reposent sur 3 volets : <ul><li>Administrer les réseaux reliant les laboratoires des 2 Campus CNRS de Montpellier (Route de Mende et Arnaud de Villeneuve)</li><li>Gérer l'infrastructure virtualisée et les services réseaux à
+l'échelle de ces deux Campus</li><li>Faire évoluer l'infrastructure hyperconvergée hébergeant l'application nationale de gestion des contrats de recherche</li></ul>"
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Depuis 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Apprenti ingénieur en administration systèmes et réseaux
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-briefcase
   present: true
 
-- name:
-    detail: Company B
+- name: 
+    detail: Diplôme d'ingénieur informatique et réseaux, IMT Mines Alès
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: "Formation en apprentissage autour des thématiques suivantes : <ul><li>Virtualisation et containerisation (VMware vSphere, Proxmox, Docker, LXC)</li><li>Administration de services réseaux (DNS, Mail, Web)</li><li>Administration système Linux (Debian, Ubuntu)</li><li>Programmation et Scripting (Bash, Python, C, JavaScript)</li><li>Automatisation (Ansible, Terraform)</li><li>Architectures et virtualisation du stockage</li><li>Administration réseau (Routage dynamique, switching, équipements Wi-Fi, QoS)</li><li>Supervision réseau et applicative (Centreon)</li><li>Administration de bases de données (Oracle, MySQL)</li></ul>"
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Depuis 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Étudiant ingénieur en apprentissage
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
+
+- name:
+    detail: Automatiser avec Ansible, M2i Formation
+    i18n: company_c
+  desc:
+    detail: "Cette formation m'a permis d'aborder les sujets suivants : <ul><li>Installation et configuration d'Ansible</li><li>Contenu d'un playbook Ansible (language YAML, modules et tâches, variables, boucles, conditions)</li><li>Rédaction d'inventaires, de playbooks et de rôles</li><li>Gestion des secrets avec Ansible Vault</li><li>Gérer le versionning des fichiers relatifs à Ansible à l'aide d'un repository GitLab</li></ul>"
+    i18n: company_c_desc
+  date:
+    detail: Janvier 2023
+    i18n: company_c_date
+  job:
+    detail: Apprenti ingénieur en administration systèmes et réseaux - CNRS
+    i18n: company_c_job
+  icon: fa-book
+
+- name:
+    detail: EMA'IT - Projet Associatif
+    i18n: company_d
+  desc:
+    detail: "Ma mission consistait principalement à intégrer un projet visant à mettre en place d'une solution d'hébergement mutualisé pour les sites web des associations étudiantes de l'IMT Mines Alès.<br/><br/>J'ai également participé au déploiement d'outils pour constituer le système d'information de l'association.</ul>"
+    i18n: company_d_desc
+  date:
+    detail: 2022-2023
+    i18n: company_d_date
+  job:
+    detail: Référent infrastructure
+    i18n: company_d_job
+  icon: fa-users
+
+- name:
+    detail: MOOC Maîtriser le shell Bash, France Université Numérique
+    i18n: company_e
+  desc:
+    detail: "Cette formation m'a permis d'aborder les sujets suivants : <ul><li>Système de fichiers (arborescence, chemins, navigation, modification)</li><li>Utilisateurs, groupes et droits</li><li>Traitement de fichiers texte (cat, head, tail, less, vi)</li><li>Processus, entrées/sorties, et contrôle d'exécution (ps, jobs, kill ,signaux)</li><li>Outils de filtrage (grep, find, sed, awk)</li><li>Transfert et compression de données (tar, gzip, wget, scp, sftp)</li><li>Éléments d'un script (variables, arguments, codes de retour)</li><li>Structures conditionnelles et itératives (if, case, while, for)</li><li>Usage des fonctions (paramètres, variables locales, retour)</li></ul>"
+    i18n: company_e_desc
+  date:
+    detail: Décembre 2019
+    i18n: company_e_date
+  job:
+    detail: Étudiant en DUT
+    i18n: company_e_job
+  icon: fa-book
+
+- name:
+    detail: DUT Réseaux et Télécommunications, IUT de Béziers
+    i18n: company_f
+  desc:
+    detail: "Formation abordant les thématiques suivantes : <ul><li>Réseaux IPv4 et IPv6 (Modèle OSI, Pile TCP/IP, protocoles ARP/IP/ICMP, topologies, routage staique/dynamique, NAT)</li><li>Équipements réseaux (switchs, routeurs, access points, matériel et techniques de câblage, VLAN/Trunk et STP)</li><li>Administration système Linux (système de fichiers, processus, scripting BASH)</li><li>Virtualisation et conteneurisation (Concepts et différences entre ces deux notions, focus sur Docker)</li><li>Administration de services réseaux (DHCP, DNS, Mail, LDAP, Web)</li><li>Sécurité des réseaux (cryptographie, RADIUS, 802.1X, VPN)</li><li>Programmation (HTML/CSS, C, PHP, Python)</li><li>Administration de bases de données (MySQL)</li><li>Téléphonie sur IP (H323, SIP, Asterisk, Zoiper)</li><li>Acquisition et codage de l'information, transmissions numériques/radio/guidées/large bande</li></ul>"
+    i18n: company_f_desc
+  date:
+    detail: 2018-2020
+    i18n: company_f_date
+  job:
+    detail: Étudiant en DUT
+    i18n: company_f_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Baccalauréat scientifique, Lycée Joseph Vallot
+    i18n: company_g
+  desc:
+    detail: "Spécialité sciences de l'ingénieur"
+    i18n: company_g_desc
+  date:
+    detail: 2015-2018
+    i18n: company_g_date
+  job:
+    detail: Étudiant
+    i18n: company_g_job
+  icon: fa-graduation-cap
