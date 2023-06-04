@@ -18,11 +18,11 @@
   tpl: projects.html
   css: project
 
-- id: skills
-  i18n: nav.skills
-  name: Compétences
-  tpl: skills.html
-  css: team
+# - id: skills
+#   i18n: nav.skills
+#   name: Compétences
+#   tpl: skills.html
+#   css: team
 
 # - id: blog
 #   i18n: nav.blog
