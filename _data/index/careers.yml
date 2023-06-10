@@ -61,7 +61,7 @@
     detail: EMA'IT - Projet Associatif
     i18n: company_e
   desc:
-    detail: "J'ai participé dans un premier temps au déploiement d'outils pour constituer le système d'information de l'association avant d'intégrer un projet visant à mettre en place d'une solution d'hébergement mutualisé pour les sites web des associations étudiantes de l'IMT Mines Alès.<br/><br/>Vous trouverez une description détaillée des solutions mises en œuvre dans la section <i>Projets</i> de cette page web.</ul>"
+    detail: "J'ai participé dans un premier temps au déploiement d'outils pour constituer le système d'information de l'association avant d'intégrer un projet visant à mettre en place une solution d'hébergement mutualisé pour les sites web des associations étudiantes de l'IMT Mines Alès.<br/><br/>Vous trouverez une description détaillée des solutions mises en œuvre dans la section <i>Projets</i> de cette page web.</ul>"
     i18n: company_e_desc
   date:
     detail: 2022-2023
