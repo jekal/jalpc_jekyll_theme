@@ -4,7 +4,7 @@
     detail: CNRS - Délégation Occitanie Est
     i18n: company_a
   desc:
-    detail: "Mes missions reposent sur 3 volets : <ul><li>Gérer l'infrastructure virtualisée et les services réseaux à l'échelle des deux Campus CNRS de Montpellier (Route de Mende et Arnaud de Villeneuve)</li><li>Administrer les réseaux reliant les laboratoires de ces 2 Campus</li><li>Faire évoluer l'infrastructure hyperconvergée hébergeant l'application nationale de gestion des contrats de recherche</li></ul><p>Vous trouverez une description détaillée de certaines de mes missions dans la section <i>Projets</i> de cette page web.</p>"
+    detail: "Mes missions reposent sur 3 volets : <ul><li>Gérer l'infrastructure virtualisée et les services réseaux des deux Campus CNRS de Montpellier</li><li>Administrer les réseaux reliant les différentes entités rattachées à ces Campus</li><li>Faire évoluer l'infrastructure hyperconvergée hébergeant l'application nationale de gestion des contrats de recherche</li></ul><p>Vous trouverez une description détaillée de certaines de mes missions dans la section <i>Projets</i> de cette page web.</p>"
     i18n: company_a_desc
   date:
     detail: Depuis 2020
