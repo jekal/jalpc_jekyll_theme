@@ -8,6 +8,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Personnal+Portfolio" alt="Project Name Typing" /></a>
 </div>
 
+<!-- Shields -->
+<div align="center">
+<a href="https://cv.alexispages.pro"><img alt="Website status" src="https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fcv.alexispages.pro"></a>
+<a href="https://www.linkedin.com/in/alexis-pag%C3%A8s"><img alt="Alexis PAGES LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20PAGES-blue?logo=LinkedIn&style=for-the-badge"></a>
+</div>
+
 # About
 This is a portfolio build using Jekyll to present my career path and the projects I've completed.
 
@@ -15,7 +21,7 @@ This is a portfolio build using Jekyll to present my career path and the project
 
 ## Web access
 
-You can directly access the website [here](https://alexispages.github.io)
+You can access the website directly [here](https://cv.alexispages.pro)
 
 ## Local testing
 
@@ -24,12 +30,12 @@ You can run the website locally. To do so:
 ```bash
 $ git clone https://github.com/alexispages/alexispages.github.io
 ```
-- Please be sure to [meet the requirements](#requirements) (ruby and Github pages gem)
+- Please be sure to [meet the requirements](#requirements) (Ruby and Github pages gem)
 
-- Type the following in order to "serve" the site.
+- Type the following in order to "serve" the site
 
 ```
-jekyll serve
+$ jekyll serve
 ```
 
 This will first run a build that will create (or modify) a `_site/ directory`, containing everything from `assets/`, and then the `index.md` and all `pages/*.md` files, converted to html. (So there’ll be `_site/index.html` and the various `_site/pages/*.html.`).
@@ -52,7 +58,7 @@ port: 5000
 baseurl: portfolio
 ```
 
-If you've applied the two tweaks above, you can now access to the website by going to `http://localhost:5000/portfolio`
+By applying the two tweaks above, you can now access to the website by going to `http://localhost:5000/portfolio`
 
 <p align="right"><a href="#about">back to top ⬆️</a></p>
 
@@ -61,7 +67,7 @@ If you've applied the two tweaks above, you can now access to the website by goi
 To test the website locally, you’ll need:
 
 - [Ruby](https://www.ruby-lang.org/en/)
-- the [github-pages](https://github.com/github/pages-gem) gem
+- The [github-pages](https://github.com/github/pages-gem) gem
 
 ## Installing ruby
 There are [lots of different ways to install ruby](https://www.ruby-lang.org/en/documentation/installation/).
@@ -74,7 +80,7 @@ In Windows, use [RubyInstaller](https://rubyinstaller.org/). (In most of this tu
 Run the following command:
 
 ```
-gem install github-pages
+$ gem install github-pages
 ```
 
 This will install the github-pages gem and all dependencies (including [jekyll](https://jekyllrb.com/)).
@@ -82,7 +88,7 @@ This will install the github-pages gem and all dependencies (including [jekyll](
 ## Later, to update the gem, type:
 
 ```
-gem update github-pages
+$ gem update github-pages
 ```
 
 <p align="right"><a href="#about">back to top ⬆️</a></p>
@@ -103,13 +109,9 @@ I have made a few changes to adapt website sections to my needs:
 
 I have modified the following contents in the `_sass/_style.scss` file:
 
-- Replace the main theme color (#3385FF) with my CV color (#132b4f)
+- Replace the main theme color (#3385FF) with my resume color (#132b4f)
 - Increase texts size
 - Make the navigation bar opaque (.navbar-default)
-
-# Contributor
-
-<a href="https://www.linkedin.com/in/alexis-pag%C3%A8s"><img alt="Alexis PAGES LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20PAGES-blue?logo=LinkedIn&style=for-the-badge"></a>
 
 ## Acknowledgments
 
@@ -120,3 +122,5 @@ I have modified the following contents in the `_sass/_style.scss` file:
 ## License
 
 - [MIT License](./LICENSE)
+
+<p align="right"><a href="#about">back to top ⬆️</a></p>
