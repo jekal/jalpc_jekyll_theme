@@ -4,13 +4,28 @@
     detail: CNRS - Délégation Occitanie Est
     i18n: company_a
   desc:
-    detail: "Mes missions reposent sur 3 volets : <ul><li>Gérer l'infrastructure virtualisée et les services réseaux des deux Campus CNRS de Montpellier</li><li>Administrer les réseaux reliant les différentes entités rattachées à ces Campus</li><li>Faire évoluer l'infrastructure hyperconvergée hébergeant l'application nationale de gestion des contrats de recherche</li></ul><p>Vous trouverez une description détaillée de certaines de mes missions dans la section <i>Projets</i> de cette page web.</p>"
+    detail: "Mes missions reposent sur 3 volets : <ul><li>Gérer l'infrastructure virtualisée et les services réseaux des deux Campus CNRS de Montpellier</li><li>Administrer les réseaux reliant les différentes entités rattachées à ces Campus</li><li>Faire évoluer l'infrastructure hyperconvergée hébergeant l'application nationale de gestion des contrats de recherche</li></ul><p>Vous trouverez une description de certaines de mes missions dans la section <i>Projets</i> de cette page web.</p>"
     i18n: company_a_desc
   date:
-    detail: Depuis 2020
+    detail: Depuis Septembre 2023
     i18n: company_a_date
   job:
-    detail: Apprenti ingénieur en administration systèmes et réseaux
+    detail: Administrateur systèmes et réseaux
+    i18n: company_a_job
+  icon: fa-briefcase
+  present: true
+
+- name:
+    detail: CNRS - Délégation Occitanie Est
+    i18n: company_a
+  desc:
+    detail: "Missions identiques à celles exercées actuellement."
+    i18n: company_a_desc
+  date:
+    detail: 2020-2023
+    i18n: company_a_date
+  job:
+    detail: Apprenti ingénieur systèmes et réseaux
     i18n: company_a_job
   icon: fa-briefcase
   present: true
@@ -22,7 +37,7 @@
     detail: "Formation en apprentissage autour des thématiques suivantes : <ul><li>Virtualisation et conteneurisation (VMware vSphere, Proxmox, Docker, LXC)</li><li>Administration de services réseaux (DNS, Mail, Web)</li><li>Administration système Linux (Debian, Ubuntu)</li><li>Programmation et Scripting (Bash, Python, C, JavaScript)</li><li>Automatisation (Ansible, Terraform)</li><li>Architectures et virtualisation du stockage</li><li>Administration réseau (Routage dynamique, switching, équipements Wi-Fi, QoS)</li><li>Supervision réseau et applicative (Centreon)</li><li>Administration de bases de données (Oracle, MySQL)</li></ul>"
     i18n: company_b_desc
   date:
-    detail: Depuis 2020
+    detail: 2020-2023
     i18n: company_b_date
   job:
     detail: Étudiant ingénieur en apprentissage
