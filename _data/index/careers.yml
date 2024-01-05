@@ -1,30 +1,177 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
-  present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Konglig Datasektion
+    i18n: studs2024
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Was the project lead of the chapter's yearly study trip, a project with a turnover of 1 million SEK. <br/> Was responsible for leading the managing group, signing contracts and ensuring chapter governing documents were adhered to.
+    i18n: studs2024_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: 2023-05-01
+    i18n: studs2024_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Project lead, STUDS 2024
+    i18n: studs2024_job
+  icon: fa-heart
+  present: True
+
+
+- name:
+    detail: Konglig Datasektion
+    i18n: speaker2023
+  desc:
+    detail: Arranged democratic meetings for the chapter in collaboration with the chapter board. <br/> Was moderator during these meetings, being responsible for ensuring that participants got their chance to express their opinions. <br/> Were also responsible for that chapter governing documents were followed during the meeting.
+    i18n: speaker2023_desc
+  date:
+    detail: 2023-04-01
+    i18n: speaker2023_date
+  job:
+    detail: Speaker
+    i18n: speaker2023_job
+  icon: fa-heart
+  present: False
+
+
+- name:
+    detail: School of Electrical Engineering and Computer Science, KTH Royal institute of technology
+    i18n: master_kth
+  desc:
+    detail:
+    i18n: master_kth_desc
+  date:
+    detail: 2022-08-01
+    i18n: master_kth_date
+  job:
+    detail: Master in Computer Science
+    i18n: master_kth_job
+  icon: fa-graduation-cap
+  present: True
+
+
+- name:
+    detail: Sanmina-SCI AB
+    i18n: sanmina2022
+  desc:
+    detail: Maintained and administrated the industry plant's systems, such as Visma Agda PS and Microsoft Active Directory <br/> Prepared PCs, mobiles and other systems to be ready for production and employee usage. <br/> Troubleshooted and repaired failing IT systems of the plant.
+    i18n: sanmina2022_desc
+  date:
+    detail: 2022-06-01
+    i18n: sanmina2022_date
+  job:
+    detail: Desktop Systems Specialist
+    i18n: sanmina2022_job
+  icon: fa-building
+  present: False
+
+
+- name:
+    detail: Konglig Datasektion
+    i18n: spexet2023
+  desc:
+    detail: Managed the project group for the chapter’s largest project involving more that 120 chapter members. <br/> Planned, budgeted och supervised a project with a economic turnover of 280.000kr. <br/> Was responsible for the communication between the project and other student union and chapter organs.
+    i18n: spexet2023_desc
+  date:
+    detail: 2022-05-01
+    i18n: spexet2023_date
+  job:
+    detail: Project lead, METAspexet 2023
+    i18n: spexet2023_job
+  icon: fa-heart
+  present: False
+
+
+- name:
+    detail: Konglig Datasektion
+    i18n: spexet2022
+  desc:
+    detail: Worked closely with the project leads and worked with them doing the administrative and strategical work. <br/> Was responsible for the communication between the METAspexet project and other chapter’s spex-projects. <br/> Was part of a project group that planned a event budgeted for 100.000kr for the METAspexet 10 year anniversary.
+    i18n: spexet2022_desc
+  date:
+    detail: 2021-08-01
+    i18n: spexet2022_date
+  job:
+    detail: Vice project lead, METAspexet 2022
+    i18n: spexet2022_job
+  icon: fa-heart
+  present: False
+
+
+- name:
+    detail: Sanmina-SCI AB
+    i18n: sanmina2021
+  desc:
+    detail: Migrated internal software dependent on End-Of-Life NodeJS-version to an up-to-date version. <br/> Implemented feature requests for the plant’s internal web system, developed in AngularJS and NodeJS.
+    i18n: sanmina2021_desc
+  date:
+    detail: 2021-06-01
+    i18n: sanmina2021_date
+  job:
+    detail: Intern, IT
+    i18n: sanmina2021_job
+  icon: fa-building
+  present: False
+
+
+- name:
+    detail: Konglig Datasektion
+    i18n: spexet2021
+  desc:
+    detail: Lead the rehearsals of the METAspexet project’s band, consisting of 7 instrumentalists. <br/> Was responsible for the communication between the project’s band and the project group.
+    i18n: spexet2021_desc
+  date:
+    detail: 2020-08-01
+    i18n: spexet2021_date
+  job:
+    detail: Band responsible, METAspexet 2021
+    i18n: spexet2021_job
+  icon: fa-heart
+  present: False
+
+
+- name:
+    detail: Sanmina-SCI AB
+    i18n: sanmina2020
+  desc:
+    detail: Developed a library in C++ for integration between test software and Sanminas internal database system. <br/> Developed and maintain a system in Python for reporting of manufactured devices to the internal database system.
+    i18n: sanmina2020_desc
+  date:
+    detail: 2020-06-01
+    i18n: sanmina2020_date
+  job:
+    detail: Intern, IT
+    i18n: sanmina2020_job
+  icon: fa-building
+  present: False
+
+
+- name:
+    detail: School of Electrical Engineering and Computer Science, KTH Royal institute of technology
+    i18n: bachelor_kth
+  desc:
+    detail:
+    i18n: bachelor_kth_desc
+  date:
+    detail: 2019-08-01
+    i18n: bachelor_kth_date
+  job:
+    detail: Bachelor in Computer Science
+    i18n: bachelor_kth_job
+  icon: fa-graduation-cap
+  present: False
+
+
+- name:
+    detail: Sanmina-SCI AB
+    i18n: sanmina2019
+  desc:
+    detail: Developed Labview module for interfacing test software and Dataq DAQ unit.
+    i18n: sanmina2019_desc
+  date:
+    detail: 2019-03-01
+    i18n: sanmina2019_date
+  job:
+    detail: Intern, Test
+    i18n: sanmina2019_job
+  icon: fa-building
+  present: False

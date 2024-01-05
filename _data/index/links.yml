@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: METAspexet
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: A student spex that I've engaged greatly with during my studies and that I've been both project lead and vice project lead for.
+  website: https://metaspexet.se/
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
+- last_name: STUDS
+  first_name:
+  desc: The study trip project of the CS chapter at KTH that I am currently the project lead of. This project also facilitates connections between master students and IT companies, so be sure to check it out if you are on the lookout for more students as me.
+  website: https://studs.se/
+  email: ansvarig@studs.se
+
+- last_name: Jalpc
+  first_name:
+  desc: Author of the template that were used to create this website. Many thanks to Kun Jia for creating this awesome template.
+  website: http://www.jarrekk.com/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com

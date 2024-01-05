@@ -1,22 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Mattfulltos
+  i18n: mattfulltos
+  gh_user: erikcghedlund
+  repo: mattfulltos
+  img: /static/assets/img/landing/beer.png
+  desc: This is a python mobile app for tracking alcohol consumption very early in the works. It uses Kivy, KivyMD and matplotlib to render its data. It is currently very far from a working app.
+
+- name: This website
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+  gh_user: erikcghedlund
+  repo: homepage
+  img: /static/assets/img/landing/jekyll.svg
+  desc: This is where the source code of this website is hosted. It is heavily based on https://github.com/jarrekk/Jalpc, since I'm not a front end guy.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Baseball practice
+  i18n: baseball
+  gh_user: erikcghedlund
+  repo: DD1354_Project
+  img: /static/assets/img/landing/pygame.png
+  desc: This is a simulation of a bat hitting a baseball that I did early in my school years as a project for the course DD1354 Models and Simulation at KTH. It uses Pygame for rendering the simulation.
