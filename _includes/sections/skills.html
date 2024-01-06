@@ -15,30 +15,32 @@
         var data = {
             labels: "{{ site.data.index.skills.aspects }}".split(","),
             datasets: [{
+                axis: 'y',
+                borderColor: "#0a4d00",
+                backgroundColor: "#0d6600",
+                borderWidth: 3,
                 label: "{{ site.data.index.skills.label }}",
-                backgroundColor: "rgba(179,181,198,0.2)",
-                borderColor: "#0d6600",
-                pointBackgroundColor: "#0d6600",
-                pointBorderColor: "#000",
-                pointHoverBackgroundColor: "#0d6600",
-                pointHoverBorderColor: "#0d6600",
                 data: [{{ site.data.index.skills.percentage }}]
                 }]
         };
         var myRadarChart = new Chart(ctx, {
-            type: 'radar',
+            type: 'horizontalBar',
             data: data,
             options: {
-                scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100, display: false},
-                    diplay: false,
-                    lineArc: false,
-                    pointLabels: {fontSize: 14},
-                    gridLines: {display:true, color: "#b1b3b4"},
-                    angleLines: {color: "#b1b3b4"},
-                },
+                ticks: {min: 0, max: 10},
+                pointBackgroundColor: "#0d6600",
+                pointBorderColor: "#000",
+                pointHoverBackgroundColor: "#0d6600",
+                pointHoverBorderColor: "#0d6600",
                 legend: {display: false},
+                scales: {
+                    xAxes:[{
+                        ticks: {
+                            min: 0,
+                            max: 10
+                        }
+                    }]
+                }
             }
         });
         </script>
