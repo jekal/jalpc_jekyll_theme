@@ -10,7 +10,7 @@
 
 <!-- Shields -->
 <div align="center">
-<a href="https://cv.alexispages.pro"><img alt="Website status" src="https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fcv.alexispages.pro"></a>
+<a href="https://alexispages.github.io/portfolio/"><img alt="Website status" src="https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Falexispages.github.io/portfolio/"></a>
 <a href="https://www.linkedin.com/in/alexis-pag%C3%A8s"><img alt="Alexis PAGES LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20PAGES-blue?logo=LinkedIn&style=for-the-badge"></a>
 </div>
 
