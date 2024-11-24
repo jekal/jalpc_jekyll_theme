@@ -3,6 +3,36 @@
 
 - name:
     detail: Konglig Datasektion
+    i18n: auditor2025
+  desc:
+    detail:
+    i18n: auditor2025_desc
+  date:
+    detail: 2025-01-01
+    i18n: auditor2025_date
+  job:
+    detail: Auditor
+    i18n: auditor2025_job
+  icon: fa-heart
+  present: True
+
+- name:
+    detail: Tekniska Högskolans Studentkår
+    i18n: kf2024
+  desc:
+    detail:
+    i18n: kf2024_desc
+  date:
+    detail: 2024-07-01
+    i18n: kf2024_date
+  job:
+    detail: Union council representative
+    i18n: kf2024_job
+  icon: fa-heart
+  present: True
+
+- name:
+    detail: Konglig Datasektion
     i18n: studs2024
   desc:
     detail: Was the project lead of the chapter's yearly study trip, a project with a turnover of 1 million SEK. <br/> Was responsible for leading the managing group, signing contracts and ensuring chapter governing documents were adhered to.
